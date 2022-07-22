@@ -1,0 +1,112 @@
+[
+  {
+    "code": "OvoOhY",
+    "name": "OvoOhYName",
+    "file": "s3://some-special-bucket/production/publisher-data/OvoOhYe16904b4-b91f-404b-8c1c-a29db90edd29",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "pmzSqP",
+    "name": "pmzSqPName",
+    "file": "s3://some-special-bucket/production/publisher-data/pmzSqPf1e0adc6-6c1b-4060-9d4b-866630ab1ee5",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "gYodHw",
+    "name": "gYodHwName",
+    "file": "s3://some-special-bucket/production/publisher-data/gYodHw82471cda-0bf8-4c6c-a6f1-442c7d7807d0",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "ThyJVw",
+    "name": "ThyJVwName",
+    "file": "s3://some-special-bucket/production/publisher-data/ThyJVw25f28dfb-2dda-42bb-8be6-77474bfee510",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "SIVgFC",
+    "name": "SIVgFCName",
+    "file": "s3://some-special-bucket/production/publisher-data/SIVgFCaf2991e6-eb5f-482a-a3b7-fc9f41d799dc",
+    "active": "false",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "rIohUZ",
+    "name": "rIohUZName",
+    "file": "s3://some-special-bucket/production/publisher-data/rIohUZcf4463ce-a3b9-46d1-b4b3-bfac34a12a9e",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "lQfcno",
+    "name": "lQfcnoName",
+    "file": "s3://some-special-bucket/production/publisher-data/lQfcno68161bf9-e88e-4eae-802b-8014ea6b0161",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "ttAZne",
+    "name": "ttAZneName",
+    "file": "s3://some-special-bucket/production/publisher-data/ttAZnef9845fd5-805c-4718-be1a-fc61f3c2025f",
+    "active": "false",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "EZYFEX",
+    "name": "EZYFEXName",
+    "file": "s3://some-special-bucket/production/publisher-data/EZYFEX3398cb8a-14cb-4f09-87b7-7f4086301eff",
+    "active": "true",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  },
+  {
+    "code": "AicQuN",
+    "name": "AicQuNName",
+    "file": "s3://some-special-bucket/production/publisher-data/AicQuN10a073e4-15f4-4ed4-b4d8-2250d2b7aaa6",
+    "active": "false",
+    "categories": [
+      "CATABC",
+      "CATDEF",
+      "CATXYZ"
+    ]
+  }
+]
